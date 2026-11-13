@@ -4,7 +4,7 @@ For Fun By D6VAlex
 You Need  App id and Pic From : https://discord.com/developers/applications
 After Create APP Go to General  Information > Application ID And Copy And past In My app 
 
-<img width="451" height="104" alt="image" src="https://github.com/user-attachments/assets/14b2e066-8d64-46a8-be0c-5f5f9adf637d" />
+<img width="432" height="84" alt="image" src="https://github.com/user-attachments/assets/bacc6214-4740-4380-b177-dfaf90b359b0" />
 
 After This Back to Discord Dev > Go To 
 
