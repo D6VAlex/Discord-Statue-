@@ -1,5 +1,5 @@
 # Discord-Statue-
-##For Fun By D6VAlex 
+# #For Fun By D6VAlex 
 <img width="1846" height="1029" alt="image" src="https://github.com/user-attachments/assets/b502a952-a34d-4e7d-a3de-8b19abd75804" />
 
 You Need  App id and Pic From : https://discord.com/developers/applications
