@@ -16,7 +16,7 @@ After This Press ADD IMAGE
 
 And After ADD Copy This Key 
 
-<img width="396" height="84" alt="image" src="https://github.com/user-attachments/assets/fc53d725-4e22-48b9-ba96-ad9e0323a75c" />
+<img width="1917" height="226" alt="image" src="https://github.com/user-attachments/assets/a43dcff7-67fc-469c-82bd-6b1e208e95ee" />
 
 And Past this key here > 
 
