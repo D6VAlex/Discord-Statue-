@@ -20,6 +20,6 @@ And After ADD Copy This Key
 
 And Past this key here > 
 
-<img width="465" height="87" alt="image" src="https://github.com/user-attachments/assets/f4d6f2d5-0f41-4e5d-9eb9-ff2cbb7f7d5f" />
+<img width="425" height="94" alt="image" src="https://github.com/user-attachments/assets/4b6700f1-a6f4-4117-8123-d677f68dfba2" />
 
 This Project is made by D6VAlex. All rights reserved.
